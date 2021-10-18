@@ -35,6 +35,7 @@ contract.
 - binance smart chain testnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
 - polygon: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
 - mumbai: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- optimism kovan testnet: `0x22Ab86b4a584568685bD51Ed109f7EB3484bB2a1`
 
 ### Library
 
